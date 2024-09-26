@@ -4,7 +4,6 @@ import { lusitana } from '@/app/ui/fonts';
 import { Suspense } from 'react';
 import { RevenueChartSkeleton } from '@/app/ui/skeletons';
 import { LatestInvoicesSkeleton } from '@/app/ui/skeletons';
-import { CardSkeleton } from '@/app/ui/skeletons';
 import CardWrapper from '../ui/dashboard/cards';
 
 
